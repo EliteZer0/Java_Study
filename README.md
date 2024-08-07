@@ -37,7 +37,7 @@
 
 ### [선택 정렬(Selection Sort)](https://github.com/EliteZer0/Java_Study/tree/main/SelectionSort)
 
-- [ ] [백준 23881번 : 알고리즘 수업 - 선택 정렬 1](https://www.acmicpc.net/problem/23881)
+- [x] [백준 23881번 : 알고리즘 수업 - 선택 정렬 1](https://www.acmicpc.net/problem/23881)
 
 - [ ] [백준 23882번 : 알고리즘 수업 - 선택 정렬 2](https://www.acmicpc.net/problem/23882)
 
